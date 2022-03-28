@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm siam</h1>
-<h3 align="center">I'm a designer & developer with a passion for web design. I enjoy developing simple, clean, and slick websites that provide real value to the end-user I really enjoy learning languages and frameworks like JS, ReactJS, HTML, and CSS. ......I’m also interested in Artificial Intelligence and Machine Learning.</h3>
+<h3 align="center">I'm a designer & developer with a passion for web design. I enjoy developing simple, clean, and slick websites that provide real value to the end-user I really enjoy learning languages and frameworks like HTML, CSS,Javascript, BooStrap,React.JS
+ ......I’m also interested in Artificial Intelligence and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **a new personal Project**
 
